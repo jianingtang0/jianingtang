@@ -51,7 +51,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -153,8 +153,11 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
+   img {
+    width: 165px;
+    height: 165px;
+    object-fit: cover;
+    object-position: center 30%;
     border-radius: 50%;
 
     @include breakpoint($large) {
