@@ -26,8 +26,8 @@ author:
   avatar           : "profilepic1.jpeg"
   name             : "Jianing Tang"
   pronouns         : "she/her"
-  bio              : "PhD candidate in Biomedical Engineering at Northwestern University \n
-                      每一本打开的书，都是漫漫长夜"
+  bio              : "PhD candidate in Biomedical Engineering at Northwestern University 
+                      <br>每一本打开的书，都是漫漫长夜"
   location         : "Earth"
   employer         : "Northwestern University"
   uri              : # URL
