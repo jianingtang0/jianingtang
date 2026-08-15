@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**PhD candidate in Biomedical Engineering working at the intersection of MRI, computation methods, and neurovascular science.**
-
+<strong>PhD candidate in Biomedical Engineering</strong> at <a href="https://www.northwestern.edu/">Northwestern University</a>, working at the intersection of MRI, computational methods, and neurovascular science.
 I build imaging methods to measure things that are *small, fast, and annoyingly difficult to see.*
 
 <small style="color: #888;">🚧 This little corner of the internet is still under construction.</small>
