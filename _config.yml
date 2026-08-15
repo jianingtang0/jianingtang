@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic1.jpeg"
+  avatar           : "profilepic2.jpeg"
   name             : "Jianing Tang"
   pronouns         : "she/her"
   bio              : "PhD candidate in Biomedical Engineering at Northwestern University 
