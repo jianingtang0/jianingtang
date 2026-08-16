@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<strong>PhD candidate at Northwestern University</strong>, working at the intersection of MRI, computational methods, and neurovascular science.
+<strong>PhD candidate at Northwestern University</strong>, working at the intersection of MRI imaging, quantitative analysis, and neurovascular science.
 
 I build imaging methods to measure things that are *small, fast, and annoyingly difficult to see.*
 
-<medium style="color: #888;">🚧 This little corner of the internet is still under construction.</medium>
+<medium style="color: #888;">🚧 This webpage is still under construction.</medium>
 
 
 ---
