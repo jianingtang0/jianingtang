@@ -9,9 +9,9 @@ tags:
 ---
 
 
-*A very belated collection of thoughts and photos from ISMRM 2026.*
+*Collection of thoughts and photos from ISMRM 2026.*
 
-After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa! 🇿🇦
+After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
 
 <img 
   src="{{ '/images/posts/ismrm-2026/cape-town.jpeg' | relative_url }}"
@@ -19,7 +19,7 @@ After **25 hours of flying**, I finally made it to Cape Town and my first time i
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
 
-I looked extremely tired (because I was) and slightly awkward in basically every photo I took at ISMRM. There were *so many people* everywhere and it's a bit intimidating for me to do some funny pose. 😂
+I looked extremely tired (because I was) and slightly awkward in basically every photo I took at ISMRM. There were *so many people* everywhere and it's a bit intimidating for me to do some funny pose. 
 
 <img 
   src="{{ '/images/posts/ismrm-2026/ismrm_yia.jpeg' | relative_url }}"
@@ -27,11 +27,11 @@ I looked extremely tired (because I was) and slightly awkward in basically every
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
 
-Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster HADN’T UPLOADED!!! GOD. 😭💻
-Special thanks to Yihan, who helped me ask around and figure out what was going on. 🥹
+Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster HADN’T UPLOADED!!! GOD. 😭
+Special thanks to **Yihan🩷**, who helped me ask around and figure out what was going on.
 
 
-One of my favorite moments was seeing the penguins, especially a penguin mom carefully tending to her egg. 🥹🐧🥚
+One of my favorite moments was seeing the penguins, especially a penguin mom carefully tending to her egg. 🐧
 
 
   <img 
@@ -54,8 +54,6 @@ At that point, I genuinely thought I wasn't going to get one, so hiking up a mou
 
 Huge thanks to **Hao Li, Minhao, and Jason** for inviting me along and, more importantly, cheering me up! Also for taking photos, because otherwise there would probably be very little evidence that I actually made it to the top (and somehow slid my way back down). 😂
 
-Lesson learned: the better camera does not make the better photographer. I had the camera. Hao had the skills. 📸
-
 
 
 ## 😶 Conferences are still hard
@@ -64,7 +62,7 @@ As much as I love the science, conferences are still a little intimidating for m
 
 So if we were at the same conference and I didn't come over to say hi or if I looked *very serious and deeply focused* while walking around, please don't take it personally.
 
-**I was probably just pretending to look busy because I didn't know anyone. 😂**
+**I was probably just pretending to look busy because I didn't know anyone.**
 
 I'm still learning how to walk up to someone I don't know and simply say, "Hi!" without rehearsing the interaction in my head first.
 
