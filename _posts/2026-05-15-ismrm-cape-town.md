@@ -14,7 +14,7 @@ tags:
 After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
 
 <img 
-  src="/jianingtang/images/posts/ismrm-2026/cape-town.jpeg"
+  src="/jianingtang/posts/ismrm-2026/cape-town.jpeg"
   alt="Cape Town"
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
@@ -22,7 +22,7 @@ After **25 hours of flying**, I finally made it to Cape Town and my first time i
 I looked extremely tired (because I was) and slightly awkward in basically every photo I took at ISMRM. There were *so many people* everywhere and it's a bit intimidating for me to do some funny pose. 
 
 <img 
-  src="{{ '/images/posts/ismrm-2026/ismrm_yia.jpeg' | relative_url }}"
+  src="{{ '/posts/ismrm-2026/ismrm_yia.jpeg' | relative_url }}"
   alt="Cape Town"
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
@@ -35,7 +35,7 @@ One of my favorite moments was seeing the penguins, especially a penguin mom car
 
 
   <img 
-    src="{{ '/images/posts/ismrm-2026/penguin.jpeg' | relative_url }}"
+    src="{{ '/posts/ismrm-2026/penguin.jpeg' | relative_url }}"
     style="width: 49%; object-fit: cover; border-radius: 12px;"
     alt="Penguins in Cape Town"
   >
@@ -46,13 +46,13 @@ Right before the YIA announcements, I somehow ended up hiking **Lion's Head**.
 At that point, I genuinely thought I wasn't going to get one, so hiking up a mountain seemed like a pretty reasonable way to spend the time instead of sitting around being nervous. 😂
 
 <img 
-  src="{{ '/images/posts/ismrm-2026/lions-head1.jpeg' | relative_url }}"
+  src="{{ '/posts/ismrm-2026/lions-head1.jpeg' | relative_url }}"
   alt="Hiking Lion's Head"
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
 
 
-Huge thanks to **Hao Li, Minhao, and Jason** for inviting me along and, more importantly, cheering me up! Also for taking photos, because otherwise there would probably be very little evidence that I actually made it to the top (and somehow slid my way back down). 😂
+Huge thanks to **Hao, Minhao, and Jason** for inviting me along and, more importantly, cheering me up! Also for taking photos, because otherwise there would probably be very little evidence that I actually made it to the top (and somehow slid my way back down). 😂
 
 
 
