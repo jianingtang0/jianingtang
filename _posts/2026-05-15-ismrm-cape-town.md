@@ -27,7 +27,7 @@ I looked extremely tired (because I was) and slightly awkward in basically every
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
 
-Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster HADN’T UPLOADED!!! GOD. 😭 <br>
+Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster **HADN’T UPLOADED**!!! GOD. 😭 <br>
 Special thanks to **Yihan🩷**, who helped me ask around and figure out what was going on.
 
 
