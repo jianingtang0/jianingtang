@@ -11,7 +11,9 @@ tags:
 
 *Collection of thoughts and photos from ISMRM 2026.*
 
-After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
+## 🐧 Penguins, mountains, and a little chaos
+
+After **25 hours of flying**, I finally made it to Cape Town. It's my first time in Africa!
 
 ![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/cape-town.jpeg)
 
@@ -21,6 +23,7 @@ I looked extremely tired (because I was) and slightly awkward in basically every
 ![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/ismrm_yia.jpeg)
 
 Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster **HADN’T UPLOADED**!!! 😭 <br>
+
 Special thanks to **Yihan🩷**, who helped me ask around and figure out what was going on.
 
 
@@ -40,6 +43,15 @@ Huge thanks to **Hao, Zhiyu, and Jason** for inviting me along and, more importa
 One of my favorite moments was seeing the penguins, especially a penguin mom carefully tending to her egg. 🐧
 
 ![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/penguin.jpeg)
+
+## 💡 The best part: the people
+
+One of my favorite parts of ISMRM is getting to meet people whose work I have admired from afar and realizing how incredibly kind, curious, and energetic they are in person.
+
+I had some genuinely great conversations this year about research, ideas, careers, and sometimes completely random things such as learning that **Horace has a Duolingo streak of more than 700 days!!! 🦉** Mine made it to about 90 before quietly disappearing.
+
+I was amazed by how much energy and excitement people bring to their work, and I came home feeling both inspired and very aware of how much more there is for me to learn.
+
 
 ## 😶 Conferences are still hard
 
