@@ -14,7 +14,7 @@ tags:
 After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
 
 <img 
-  src="{{ '/images/posts/ismrm-2026/cape-town.jpeg' | relative_url }}"
+  src="/jianingtang/images/posts/ismrm-2026/cape-town.jpeg"
   alt="Cape Town"
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
@@ -27,7 +27,7 @@ I looked extremely tired (because I was) and slightly awkward in basically every
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
 
-Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster HADN’T UPLOADED!!! GOD. 😭
+Me (pretending to be calm) presenting using my laptop during the YIA session after finding out that my poster HADN’T UPLOADED!!! GOD. 😭 <br>
 Special thanks to **Yihan🩷**, who helped me ask around and figure out what was going on.
 
 
