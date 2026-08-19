@@ -13,13 +13,11 @@ tags:
 
 After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
 
-
 <img 
   src="/jianingtang/images/posts/ismrm-2026/cape-town.jpeg"
   alt="Cape Town"
   style="width: 85%; border-radius: 12px; display: block; margin: 1.5em auto;"
 >
-
 I looked extremely tired (because I was) and slightly awkward in basically every photo I took at ISMRM. There were *so many people* everywhere and it's a bit intimidating for me to do some funny pose. 
 
 <img 
