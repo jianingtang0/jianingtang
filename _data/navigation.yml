@@ -22,7 +22,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+  
+  - title: "CV ↗"
+    url: /files/Jianing_Tang_CV.pdf  
   #- title: "CV"
   #  url: /cv/
     
