@@ -12,7 +12,8 @@ tags:
 *Collection of thoughts and photos from ISMRM 2026.*
 
 After **25 hours of flying**, I finally made it to Cape Town and my first time in Africa!
-_posts/ismrm-2026
+
+
 <img 
   src="/jianingtang/posts/ismrm-2026/cape-town.jpeg"
   alt="Cape Town"
