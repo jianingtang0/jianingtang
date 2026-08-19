@@ -32,9 +32,11 @@ At that point, I genuinely thought I wasn't going to get one, so hiking up a mou
 
 
 ![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/lions-head1.jpeg)
+![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/lions-head2.jpeg)
 
 Huge thanks to **Hao, Minhao, and Jason** for inviting me along and, more importantly, cheering me up! Also for taking photos, because otherwise there would probably be very little evidence that I actually made it to the top (and somehow slid my way back down). 😂
 
+![Cape Town](https://jianingtang0.github.io/jianingtang/images/posts/ismrm-2026/lions-head3.jpeg)
 
 One of my favorite moments was seeing the penguins, especially a penguin mom carefully tending to her egg. 🐧
 
