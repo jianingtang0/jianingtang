@@ -1,4 +1,3 @@
-
 ---
 title: "MRI, mountains, and a week in Cape Town 🧠⛰️"
 date: 2026-05-15
