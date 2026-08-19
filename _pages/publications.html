@@ -5,32 +5,65 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p style="font-size: 1.05em; margin-bottom: 1.5em;">
+
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<p>
+  You can also find my articles on
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+</p>
 {% endif %}
 
-{% include base_path %}
+<hr>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2 style="color: #A45C8A;">📄 2025</h2>
 
+<p>
+<strong>Pulsatility Assessment of Cerebral Perforating Arteries Using Submillimeter-Resolution Dual-VENC Phase-Contrast MRI at 3T</strong><br>
+<strong>Jianing Tang</strong>, S.H. Chung, M. Gamez, T. Zhao, M.S. Wolf, D.K. Pandey, P.B. Gorelick, L. Yan<br>
+<em>Journal of Magnetic Resonance Imaging</em>, 2025<br>
+<a href="https://doi.org/10.1002/jmri.70218">DOI</a>
+</p>
 
+<p>
+<strong>Simultaneous Assessment of Arterial Pulsatility at Different Segments of Cerebral Arteries Using Multiband Dual-VENC Phase-Contrast MRI</strong><br>
+<strong>Jianing Tang</strong>, Y. He, T. Zhao, Z. Li, N. Jin, X. Bi, M.T. Gamez, L. Yan<br>
+<em>NMR in Biomedicine</em>, 2025<br>
+<a href="https://doi.org/10.1002/nbm.70099">DOI</a>
+</p>
 
+<p>
+<strong>Assessing Cerebral Microvascular Pulsatility Using Dynamic Pseudo-Continuous Arterial Spin Labeling MRI</strong><br>
+T. Zhao, <strong>Jianing Tang</strong>, Y. He, M.T. Gamez, L. Yan<br>
+<em>Magnetic Resonance in Medicine</em>, 2025
+</p>
+
+<p>
+<strong>Highly Accelerated Non-Contrast Enhanced Time-Resolved 4-Dimensional MR Angiography Using Stack-of-Stars Golden-Angle Radial Acquisition with a Self-Calibrated Low-Rank Subspace Reconstruction</strong><br>
+T. Zhao, <strong>Jianing Tang</strong>, C. Krumpelman, S.J. Moum, J.J. Russin, S.A. Ansari, Z. Chen, L. Feng, L. Yan<br>
+<em>Magnetic Resonance in Medicine</em>, 2025
+</p>
+
+<h2 style="color: #A45C8A;">📄 2024</h2>
+
+<p>
+<strong>Assessment of Arterial Pulsatility of Cerebral Perforating Arteries Using 7T High-Resolution Dual-VENC Phase-Contrast MRI</strong><br>
+<strong>Jianing Tang</strong>, S.H. Pahlavian, E. Joe, M.T. Gamez, T. Zhao, S.J. Ma, J. Jin, S.Y. Cen, H.C. Chui, L. Yan<br>
+<em>Magnetic Resonance in Medicine</em>, 2024<br>
+<a href="https://doi.org/10.1002/mrm.30073">DOI</a>
+</p>
+
+<h2 style="color: #A45C8A;">📄 Earlier work</h2>
+
+<p>
+<strong>Deep Learning to Enable Color Vision in the Dark</strong><br>
+A.W. Browne, E. Deyneka, F. Ceccarelli, J.K. To, S. Chen, <strong>Jianing Tang</strong>, A.N. Vu, P.F. Baldi<br>
+<em>PLOS ONE</em>, 2022
+</p>
+
+<p>
+<strong>1.7-Micron Optical Coherence Tomography Angiography for Characterization of Skin Lesions — A Feasibility Study</strong><br>
+Y. Li, R.S. Murthy, Y. Zhu, F. Zhang, <strong>Jianing Tang</strong>, J.N. Mehrabi, K.M. Kelly, Z. Chen<br>
+<em>IEEE Transactions on Medical Imaging</em>, 2021
+</p>
